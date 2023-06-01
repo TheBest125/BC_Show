@@ -1,4 +1,4 @@
-<h1 align="center">Bitcoin Show</h1>
+<h1 align="center">Bitcoin Show Made by Kevin</h1>
 
 <p align="center">
   <a href="https://github.com/italopessoa/bitcoin-show/stargazers">
